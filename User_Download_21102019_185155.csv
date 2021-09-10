@@ -1,0 +1,6 @@
+First Name [Required],Last Name [Required],Email Address [Required],Status [READ ONLY],Last Sign In [READ ONLY],Email Usage [READ ONLY]
+Alice,Chao,alice@cardifflearning.com,Active,2018/03/10 17:14:36,0.14GB
+Jack,Wang,jack@cardifflearning.com,Active,2018/07/25 21:35:11,0.02GB
+Michelle,Ma,michelle@cardifflearning.com,Active,2018/10/13 16:37:59,0.12GB
+Peter,Alexander,peter@cardifflearning.com,Active,2019/08/11 19:53:26,0.24GB
+Requesting,Information,info@cardifflearning.com,Active,2017/10/16 21:14:16,0.01GB
